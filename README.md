@@ -5,7 +5,7 @@ Portafolio con trabajos de Estructuras de Datos Primer Semestre 2020
 ##### Tareas Semana 1
 * ED_tarea_S01
 
-##### Tareas semana 2
+##### Tareas Semana 2
 * Ed_tarea_s2_p1
 * Ed_tarea_s2_p2 
   * Juego de perros y gatos
@@ -20,7 +20,7 @@ Portafolio con trabajos de Estructuras de Datos Primer Semestre 2020
   * cambio en la estructura de datos usada para almacenar Guitarras
   * se agregar métodos a ......
 
-##### semana 4
+##### Semana 4
 * Ed_ PRUEBA_01_V1
   * Primera entrega Prueba 1 
 * Ed_ PRUEBA_01_V2
@@ -28,7 +28,7 @@ Portafolio con trabajos de Estructuras de Datos Primer Semestre 2020
 * Ed_ PRUEBA_01_V2
   * 
 
-##### Tareas semana 5
+##### Tareas Semana 5
 * Ed_tarea_s01_p1
   * Mazo de Cartas
 * Ed_tarea_s01_p1_v2
