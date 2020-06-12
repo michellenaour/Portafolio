@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aae780ee-756f-433f-a997-4cbf8a004153" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cOrKelwbZWgDZ67I3qboFGpwuz" />
+  <component name="PropertiesComponent">
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Est D/ED_Tarea_S3_P1" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="Ed" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.InstitutoTest">
+    <configuration name="InstitutoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Prueba1ED" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ed.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Ed" />
+      <option name="MAIN_CLASS_NAME" value="Ed.InstitutoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InstitutoTest.generarListaEstudiantesListaDeEspera1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Prueba1ED" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ed.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Ed" />
+      <option name="MAIN_CLASS_NAME" value="Ed.InstitutoTest" />
+      <option name="METHOD_NAME" value="generarListaEstudiantesListaDeEspera1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InstitutoTest.generarListaEstudiantesListaDeEspera2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Prueba1ED" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ed.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Ed" />
+      <option name="MAIN_CLASS_NAME" value="Ed.InstitutoTest" />
+      <option name="METHOD_NAME" value="generarListaEstudiantesListaDeEspera2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InstitutoTest.generarListaEstudiantesMatriculados2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Prueba1ED" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ed.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Ed" />
+      <option name="MAIN_CLASS_NAME" value="Ed.InstitutoTest" />
+      <option name="METHOD_NAME" value="generarListaEstudiantesMatriculados2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InstitutoTest.generarListaProfesores1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Prueba1ED" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ed.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Ed" />
+      <option name="MAIN_CLASS_NAME" value="Ed.InstitutoTest" />
+      <option name="METHOD_NAME" value="generarListaProfesores1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.InstitutoTest" />
+        <item itemvalue="JUnit.InstitutoTest.generarListaProfesores1" />
+        <item itemvalue="JUnit.InstitutoTest.generarListaEstudiantesListaDeEspera2" />
+        <item itemvalue="JUnit.InstitutoTest.generarListaEstudiantesListaDeEspera1" />
+        <item itemvalue="JUnit.InstitutoTest.generarListaEstudiantesMatriculados2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aae780ee-756f-433f-a997-4cbf8a004153" name="Default Changelist" comment="" />
+      <created>1590410417754</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590410417754</updated>
+    </task>
+    <servers />
+  </component>
+</project>
