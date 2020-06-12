@@ -8,8 +8,7 @@ Portafolio con trabajos de Estructuras de Datos Primer Semestre 2020
 ##### Tareas semana 2
 * Ed_tarea_s2_p1
 * Ed_tarea_s2_p2
-* Ed_tarea_s2_p2 version 2:
-<br> se hicieron cambios en Ed_tarea_s2_p2: 
+* *Ed_tarea_s2_p2_V2*: se hicieron cambios en Ed_tarea_s2_p2: 
 <br> reestructuración de todo el proyecto
 
 ##### Tareas Semana 3
