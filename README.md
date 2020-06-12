@@ -41,4 +41,5 @@ Portafolio con trabajos de Estructuras de Datos Primer Semestre 2020
   * Taller Mecánico
 * Ed_tarea_s03_p3_v2
   * Se reemplaza la relación Director - Taller y Mecánico-Taller por una única relación Empleado-Taller
+  * Se agregó una clase Printer e interfase Printable
 * Ed_tarea_s04_p4
