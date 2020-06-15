@@ -1,7 +1,5 @@
 package Ed;
 
-import Ed.Tipo;
-
 public class Carta {
 
     Tipo tipo;

@@ -4,32 +4,48 @@ import java.util.*;
 
 
 public class Mazo {
-    static List<Carta> cartas= new LinkedList<>();
 
-    public static void mezclarCartas(){
-        Collections.shuffle(cartas);
+    Queue<Carta> cartas= new LinkedList<>();
+    List<Carta> todasLasCartas=new ArrayList<>();
+
+
+    public  void sacarCarta(){
+        if(cartas.peek()==null){
+            System.out.println("El mazo de cartas está vacío");
+        }else {
+            System.out.println(cartas.peek().toString());
+            cartas.poll();
+        }
     }
-    public static void sacarCarta(){
-        Carta c= cartas.get(cartas.size()-1);
-        System.out.println(c);
-        cartas.remove(c);
-    }
-    public static void agregarCarta(Carta c){
-        cartas.add(c);
-    }
-    public static void verCartas(){
+
+    public  void verCartas(){
         Iterator<Carta> iterator=cartas.iterator();
         while (iterator.hasNext()){System.out.print(iterator.next().toString());}
         System.out.print("\n");
     }
-    public  static void completarMazo(){
+    public void completarMazo(){
+        Random r = new Random();
+        completarTodasLasCartas();
+        Carta c;
+        while (todasLasCartas.size()>0){
+            int max=todasLasCartas.size();
+            int i = r.nextInt(max);
+            c=todasLasCartas.get(i);
+            todasLasCartas.remove(i);
+            cartas.add(c);
+        }
+
+    }
+    private  void completarTodasLasCartas(){
         Carta c;
         for(int t = 0; t< Tipo.values().length; t++) {
             for(int r = 0; r< Rango.values().length; r++) {
                 c = new Carta(Tipo.values()[t], Rango.values()[r]);
-                agregarCarta(c);
+                todasLasCartas.add(c);
             }
         }
     }
+
+
 
 }
