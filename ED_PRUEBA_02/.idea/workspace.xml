@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e720734d-47ba-48e9-909c-b7edbd959366" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fJnbG9OCJ1N4Cp9pEZFZzlrneh" />
+  <component name="PropertiesComponent">
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.EmpresaTest.testBusesQueRequierenMantencionPorCategoriaDePiso">
+    <configuration name="EmpresaTest.VehiculosQueRequierenMantencionConKilometrajeMenorA60000km" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ED_PRUEBA_02" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="EmpresaTest" />
+      <option name="METHOD_NAME" value="VehiculosQueRequierenMantencionConKilometrajeMenorA60000km" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmpresaTest.testBusesConLaMantencionAlDia" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ED_PRUEBA_02" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="EmpresaTest" />
+      <option name="METHOD_NAME" value="testBusesConLaMantencionAlDia" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmpresaTest.testBusesQueRequierenMantencionPorCategoriaDePiso" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ED_PRUEBA_02" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="EmpresaTest" />
+      <option name="METHOD_NAME" value="testBusesQueRequierenMantencionPorCategoriaDePiso" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmpresaTest.testCamionesConLaMantencionAlDia" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ED_PRUEBA_02" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="EmpresaTest" />
+      <option name="METHOD_NAME" value="testCamionesConLaMantencionAlDia" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmpresaTest.testCamionesQueRequierenMantencionPorCategoria" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ED_PRUEBA_02" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="EmpresaTest" />
+      <option name="METHOD_NAME" value="testCamionesQueRequierenMantencionPorCategoria" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.EmpresaTest.testBusesQueRequierenMantencionPorCategoriaDePiso" />
+        <item itemvalue="JUnit.EmpresaTest.VehiculosQueRequierenMantencionConKilometrajeMenorA60000km" />
+        <item itemvalue="JUnit.EmpresaTest.testCamionesQueRequierenMantencionPorCategoria" />
+        <item itemvalue="JUnit.EmpresaTest.testBusesConLaMantencionAlDia" />
+        <item itemvalue="JUnit.EmpresaTest.testCamionesConLaMantencionAlDia" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e720734d-47ba-48e9-909c-b7edbd959366" name="Default Changelist" comment="" />
+      <created>1595945132962</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595945132962</updated>
+    </task>
+    <servers />
+  </component>
+</project>

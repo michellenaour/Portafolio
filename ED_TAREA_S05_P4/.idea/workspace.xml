@@ -2,23 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b152693d-cc9e-40ee-af4b-97ce44589a62" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../ED_TAREA_S05_P3_V2/src/main/java/Ed/Printable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ED_TAREA_S05_P3_V2/src/main/java/Ed/Printer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ED_TAREA_S05_P1_V2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ED_TAREA_S05_P1_V2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ED_TAREA_S05_P1_V2/Captura de pantalla 2020-06-15 16.11.51.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ED_TAREA_S05_P1_V2/ED_TAREA_S05_P1_DIAGRAMA.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ED_TAREA_S05_P1_V2/src/Ed/Mazo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ED_TAREA_S05_P1_V2/src/Ed/Mazo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ED_Tarea_S02_P2 - Version2/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ED_Tarea_S02_P2 - Version2/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ED_Tarea_S02_P2 - Version2/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ED_Tarea_S02_P2 - Version2/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ED_Tarea_S02_P2 - Version2/DiagramaClases.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ED_Tarea_S02_P2 - Version2/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ED_Tarea_S02_P2 - Version2/src/main/java/ed/dci/Animal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ED_Tarea_S02_P2 - Version2/src/main/java/ed/dci/Gato.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ED_Tarea_S02_P2 - Version2/src/main/java/ed/dci/Perro.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ED_Tarea_S02_P2 - Version2/target/classes/ed/dci/Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ED_Tarea_S02_P2 - Version2/target/classes/ed/dci/Gato.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ED_Tarea_S02_P2 - Version2/target/classes/ed/dci/JuegoAnimales.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ED_Tarea_S02_P2 - Version2/target/classes/ed/dci/Perro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Model/PrinterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Model/PrinterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Model/PrinterTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ED_Tarea_S03_P2_V2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ED_Tarea_S03_P2_V2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Indice de tareas.txt" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

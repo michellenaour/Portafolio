@@ -15,7 +15,7 @@ public class Mazo {
         }else {
             System.out.println(cartas.peek().toString());
             cartas.poll();
-        }
+         }
     }
 
     public  void verCartas(){

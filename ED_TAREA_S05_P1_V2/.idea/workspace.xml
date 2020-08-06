@@ -2,11 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d93b0cc1-05bc-4857-bb7b-ccb31788ec01" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ed/Carta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ed/Carta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ed/Juego.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ed/Juego.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captura de pantalla 2020-06-15 16.11.51.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ED_TAREA_S05_P1_DIAGRAMA.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Ed/Mazo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ed/Mazo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ED_TAREA_S05_P4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ED_TAREA_S05_P4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ED_TAREA_S05_P4/src/test/java/Model/PrinterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ED_TAREA_S05_P4/src/test/java/Model/PrinterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ED_TAREA_S05_P4/target/test-classes/Model/PrinterTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ED_Tarea_S03_P2_V2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ED_Tarea_S03_P2_V2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Indice de tareas.txt" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,7 +33,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ED_Tarea_S03_P2_V2" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -87,7 +91,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
