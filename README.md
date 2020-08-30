@@ -56,7 +56,7 @@ Portafolio con trabajos de Estructuras de Datos Primer Semestre 2020
   * ED_P2_E1_C:Prueba 2 Pero se hacen cambios para ser manejada con Tree
   * ED_P2_E1_C:sistema gestor ligar de futbol
   
-#### Tareas Semana 11
+#### Tareas Semana 12
 * Ed_tarea_s12
   * se agregan métodos (n_esimo_nodo, es_lleno, obtener_nivel_de_nodo, mayor_modo_por_nivel) al codigo de Ed_tarea_s11_p1
   
