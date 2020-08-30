@@ -43,3 +43,21 @@ Portafolio con trabajos de Estructuras de Datos Primer Semestre 2020
   * Se reemplaza la relación Director - Taller y Mecánico-Taller por una única relación Empleado-Taller
   * Se agregó una clase Printer e interfase Printable
 * Ed_tarea_s04_p4
+
+#### Tareas Semana 8
+* Ed_tarea_s08_p3
+  * Sistema manejo Biblioteca
+  
+#### Tareas Semana 11
+* Ed_tarea_s11_p1
+  * Arbol binario (agregar, eliminar y buscar)
+ * Ed_tarea_s11_p2
+  * ED_P2_E1_C:Sistema de getión de Alumnos de un colegio
+  * ED_P2_E1_C:Prueba 2 Pero se hacen cambios para ser manejada con Tree
+  * ED_P2_E1_C:sistema gestor ligar de futbol
+  
+#### Tareas Semana 11
+* Ed_tarea_s12
+  * se agregan métodos (n_esimo_nodo, es_lleno, obtener_nivel_de_nodo, mayor_modo_por_nivel) al codigo de Ed_tarea_s11_p1
+  
+
