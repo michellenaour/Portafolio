@@ -31,18 +31,18 @@ Portafolio con trabajos de Estructuras de Datos Primer Semestre 2020
   * 
 
 #### Tareas Semana 5
-* Ed_tarea_s01_p1
+* Ed_tarea_s05_p1
   * Mazo de Cartas
-* Ed_tarea_s01_p1_v2
+* Ed_tarea_s05_p1_v2
   * cambio en la estructura de datos usada para la colección de cartas de Linked List a Queue
-* Ed_tarea_s02_p2
+* Ed_tarea_s05_p2
   * SetDemo
-* Ed_tarea_s03_p3
+* Ed_tarea_s05_p3
   * Taller Mecánico
-* Ed_tarea_s03_p3_v2
+* Ed_tarea_s05_p3_v2
   * Se reemplaza la relación Director - Taller y Mecánico-Taller por una única relación Empleado-Taller
   * Se agregó una clase Printer e interfase Printable
-* Ed_tarea_s04_p4
+* Ed_tarea_s05_p4
 
 #### Tareas Semana 8
 * Ed_tarea_s08_p3
